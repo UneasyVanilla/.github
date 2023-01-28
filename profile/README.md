@@ -5,3 +5,8 @@ UneasyVanilla is a semi-anarchy/survival minecraft server, started on the 10th o
 We're not anarchy, rather more lawless than anything else. You can do whatever you want in-game as long as you follow a few simple rules.
 
 ------
+
+## Links
+
+* [Website](https://www.uneasyvanilla.com/)
+* [Discord](https://discord.uneasyvanilla.com/)
